@@ -39,6 +39,7 @@ int main(){
 
 }
 /*
+OUTPUT:
 Enter marks of first subject: 68
 Enter marks of second subject: 96
 Enter marks of third subject: 78
